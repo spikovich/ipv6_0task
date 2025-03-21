@@ -1,0 +1,7 @@
+{
+  "tasks": {
+    "build": "ls",
+    "test": "ls W1 && ls W2 && ls W3",
+    "launch": "cd W1 && ls"
+  }
+}
